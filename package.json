@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@middy/core": "^3.6.0",
+    "@middy/http-json-body-parser": "^3.6.0",
+    "aws-sdk": "^2.1231.0",
+    "dotenv": "^16.0.3",
+    "uuid": "^9.0.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
